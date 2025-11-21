@@ -1,3 +1,15 @@
-body { background: #f7f7f7; margin:0; padding:0; }
-textarea { minHeight: 80px; width: 100%; font-family: monospace; }
-input, select, button { padding:6px; }
+body {
+    background: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    min-height: 80px;  /* Cambié 'minHeight' por 'min-height' */
+    width: 100%;
+    font-family: monospace;
+}
+
+input, select, button {
+    padding: 6px;
+}
